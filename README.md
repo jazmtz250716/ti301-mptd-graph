@@ -1,2 +1,3 @@
 # ti301-mptd-graph
-Repositorio para el proyecto de grafos
+Repositorio para el proyecto integrado
+
